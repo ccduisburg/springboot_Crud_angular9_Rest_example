@@ -26,6 +26,7 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+/src/angular9_client/node_modules/
 
 ### VS Code ###
 .vscode/
